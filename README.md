@@ -1,5 +1,5 @@
 <img src="/images/spark.jpg" width="300" height="150">  on  <img src="/images/win.jpg" width="150" height="150">
-
+![set enviroment variable](/images/sonw.jpg)
 # Spark on Windows setup
 Step by step guide to install spark cluster on windows machine
 
