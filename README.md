@@ -1,9 +1,9 @@
-<img src="/images/spark.jpg" width="300" height="150">  on  <img src="/images/win.jpg" width="250" height="250">
+<img src="/images/spark.jpg" width="300" height="150">  on  <img src="/images/win.jpg" width="150" height="150">
 
 # Spark on Windows setup
 Step by step guide to install spark cluster on windows machine
 
-> Prerequisite: Java
+> Prerequisites: Java, Python
 ### 1. Download winutils file
 [winutils](https://github.com/steveloughran/winutils/blob/master/hadoop-2.7.1/bin/winutils.exe)
 
