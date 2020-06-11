@@ -21,7 +21,9 @@ Step by step guide to install spark cluster on windows machine
 ![set enviroment variable](/images/env.jpg)
 
 ### 6. Install Pyspark in python environment
-```pip install pyspark```
+```python
+pip install pyspark
+```
 
 ### 7. Test the spark installation in python interpreter or jupyter notebook
 ```python
