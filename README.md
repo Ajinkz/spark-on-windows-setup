@@ -9,7 +9,7 @@ Step by step guide to install spark cluster on windows machine
 ### 2. Download spark
 [Spark](https://spark.apache.org/downloads.html)
 
-### 3. Create folder in D drive. Inside it create another folder Installations.
+### 3. Create folder in D drive. Inside it create another folder Installations and place winutils.exe file inside bin
 > Place winutils in a directory ```D:\Installations\Hadoop\bin```
 
 ### 4. Unzip the spark in the D:\Installations directory
